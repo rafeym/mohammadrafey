@@ -1,0 +1,72 @@
+$Roboto-Mono-Font: 'Roboto Mono', monospace;
+
+$black-color: #000;
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  font-family: $Roboto-Mono-Font;
+}
+
+// Home Section CSS
+.title {
+  font-family: $Roboto-Mono-Font;
+  font-weight: 700;
+  color: $black-color;
+}
+
+.subtitle {
+  font-family: $Roboto-Mono-Font;
+  font-weight: 300;
+  color: $black-color;
+}
+
+.logos {
+  width: 50px;
+  height: 50px;
+  margin-left: 5px;
+}
+
+@keyframes bounceIn {
+  0% {
+    transform: scale(0.1);
+    opacity: 0;
+  }
+  60% {
+    transform: scale(1.2);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.bounceTitle {
+  animation: bounceIn 2s;
+}
+.bouncelogos {
+  animation: bounceIn 8s;
+}
+
+#columnContainer {
+  margin-top: -5em;
+}
+
+.aboutText {
+  font-family: $Roboto-Mono-Font;
+  margin-top: 15px;
+  color: $black-color;
+}
+
+.projectLink {
+  color: $black-color;
+  text-decoration: underline;
+}
+
+.infoLogo {
+  margin-right: 10px;
+}

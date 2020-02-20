@@ -1,0 +1,25 @@
+{
+  "name": "create-next-app-cli",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.8.0",
+    "next": "9.2.2",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-scroll": "^1.7.16"
+  },
+  "devDependencies": {
+    "@iconify/icons-logos": "^1.0.9",
+    "@iconify/react": "^1.1.1"
+  }
+}
