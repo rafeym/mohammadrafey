@@ -25,7 +25,7 @@ const About = () => {
                 </a>
                 ,{' '}
                 <a
-                  href='https://freshkicks.now.sh/'
+                  href='https://fresh-kicks.now.sh/'
                   target='blank'
                   className='projectLink'
                 >
