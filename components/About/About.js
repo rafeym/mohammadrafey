@@ -18,7 +18,7 @@ const About = () => {
                 websites like{' '}
                 <a
                   href='https://thestationhouse.ca/'
-                  target='blank'
+                  target='_blank'
                   className='projectLink'
                 >
                   this
@@ -26,7 +26,7 @@ const About = () => {
                 ,{' '}
                 <a
                   href='https://fresh-kicks.now.sh/'
-                  target='blank'
+                  target='_blank'
                   className='projectLink'
                 >
                   this
@@ -34,7 +34,7 @@ const About = () => {
                 , and{' '}
                 <a
                   href='https://thestationhouse.ca/'
-                  target='blank'
+                  target='_blank'
                   className='projectLink'
                 >
                   this
