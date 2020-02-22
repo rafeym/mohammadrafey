@@ -49,7 +49,7 @@ const Header = () => {
                 to='about'
                 spy={true}
                 smooth={true}
-                offset={-70}
+                offset={20}
                 duration={1200}
               >
                 <div className='navbar-item'>About</div>
