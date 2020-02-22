@@ -5,17 +5,17 @@ body {
 }
 
 .navbar {
-  font-family: "Roboto Mono", monospace;
+  font-family: "Ubuntu";
 }
 
 .title {
-  font-family: "Roboto Mono", monospace;
+  font-family: "Ubuntu";
   font-weight: 700;
   color: #000;
 }
 
 .subtitle {
-  font-family: "Roboto Mono", monospace;
+  font-family: "Ubuntu";
   font-weight: 300;
   color: #000;
 }
@@ -75,7 +75,7 @@ body {
 }
 
 .aboutText {
-  font-family: "Roboto Mono", monospace;
+  font-family: "Ubuntu";
   margin-top: 15px;
   color: #000;
 }
