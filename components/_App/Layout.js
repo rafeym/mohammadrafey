@@ -16,6 +16,10 @@ const Layout = ({ children }) => {
           href='https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap'
           rel='stylesheet'
         />
+        <link
+          href='https://fonts.googleapis.com/css?family=Ubuntu&display=swap'
+          rel='stylesheet'
+        ></link>
         <script
           defer
           src='https://use.fontawesome.com/releases/v5.3.1/js/all.js'
