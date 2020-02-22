@@ -1,6 +1,6 @@
 const About = () => {
   return (
-    <div className='hero is-large' id='about'>
+    <div className='hero is-fullheight' id='about'>
       <div className='hero-body'>
         <div className='container has-text-left'>
           <div className='columns is-centered' id='columnContainer'>
