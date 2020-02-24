@@ -23,17 +23,9 @@ const About = () => {
                 >
                   this
                 </a>
-                ,{' '}
-                <a
-                  href='https://fresh-kicks.now.sh/'
-                  target='_blank'
-                  className='projectLink'
-                >
-                  this
-                </a>
                 , and{' '}
                 <a
-                  href='https://thestationhouse.ca/'
+                  href='https://fresh-kicks.now.sh/'
                   target='_blank'
                   className='projectLink'
                 >
