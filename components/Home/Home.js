@@ -3,7 +3,7 @@ import { Icon } from '@iconify/react'
 import javascriptIcon from '@iconify/icons-logos/javascript'
 import reactIcon from '@iconify/icons-logos/react'
 import sassIcon from '@iconify/icons-logos/sass'
-import nextjsIcon from '@iconify/icons-logos/nextjs'
+import reduxIcon from '@iconify/icons-logos/redux'
 import nodejsIcon from '@iconify/icons-logos/nodejs-icon'
 
 const Home = () => {
@@ -16,7 +16,7 @@ const Home = () => {
           <Icon icon={javascriptIcon} className='logos bounceTitle' />
           <Icon icon={reactIcon} className='logos bounceTitle' />
           <Icon icon={sassIcon} className='logos bounceTitle' />
-          <Icon icon={nextjsIcon} className='logos bounceTitle' />
+          <Icon icon={reduxIcon} className='logos bounceTitle' />
           <Icon icon={nodejsIcon} className='logos bounceTitle' />
         </div>
       </div>
