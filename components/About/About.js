@@ -15,24 +15,20 @@ const About = () => {
               <p className='is-size-4-touch is-size-4-desktop has-text-left-touch aboutText'>
                 I love to create <strong>beautiful</strong>,{' '}
                 <strong>responsive</strong>, <strong>user-friendly</strong>{' '}
-                websites like{' '}
-                <a
-                  href='https://thestationhouse.ca/'
-                  target='_blank'
-                  className='projectLink'
-                >
-                  this
-                </a>
-                , and{' '}
-                <a
-                  href='https://fresh-kicks.now.sh/'
-                  target='_blank'
-                  className='projectLink'
-                >
-                  this
-                </a>
-                .
+                websites.
               </p>
+
+              <p className='is-size-4-touch is-size-4-desktop has-text-left-touch aboutText'>
+                Here is one of my{' '}
+                <a
+                  href='https://development-the-station-house.web.app/'
+                  target='_blank'
+                  className='projectLink'
+                >
+                  projects
+                </a>
+              </p>
+
               <p className='is-size-4-touch is-size-4-desktop has-text-left-touch aboutText'>
                 I am <strong>actively looking</strong> for{' '}
                 <strong>developer positons.</strong>
